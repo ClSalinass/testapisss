@@ -1,0 +1,39 @@
+{
+   "post":[
+      {
+         "id":1,
+         "Nombre":"Alimento Master Pet",
+         "Tipo":"Canino",
+         "Descripcion":"Alimento para perro con sabor a carne, Contiene todos los nutrientes que tu perro deberia tener.",
+         "Imagen":"https://cdnx.jumpseller.com/alimentopet-cl/image/8469835/thumb/540/540?1618256581"
+      },
+      {
+         "id":2,
+         "Nombre":"Alimento Master PetCachorro",
+         "Tipo":"Felino",
+         "Descripcion":"Alimento para perro con sabor a carne y pollo, Contiene todos los nutrientes que tu perro de 1 a 12 meses deberia tener.",
+         "Imagen":"https://cdnx.jumpseller.com/alimentopet-cl/image/8469835/thumb/540/540?1618256581"
+      },
+      {
+         "id":3,
+         "Nombre":"Alimento wishkat",
+         "Tipo":"Felino",
+         "Descripcion":"Wishkat es un alimento para tu felino con todos los nutrientes para un gato adulto",
+         "Imagen":"https://www.distribuidoralira.cl/wp-content/uploads/2017/08/Carne-adulto-600x886.jpg"
+      },
+      {
+         "id":4,
+         "Nombre":"Alimento wishkat cachorro",
+         "Tipo":"Felino",
+         "Descripcion":"Wishkat es un alimento para tu felino con todos los nutrientes para un gato entre 1 y 12 meses de edad",
+         "Imagen":"https://www.distribuidoralira.cl/wp-content/uploads/2017/08/Carne-adulto-600x886.jpg"
+      },
+      {
+         "id":5,
+         "Nombre":"Alimento CANITO",
+         "Tipo":"Canino",
+         "Descripcion":"Alimento para tu perro, trae todos los nutrientes para un perro de edad avanzada.",
+         "Imagen":"https://www.distribuidoralira.cl/wp-content/uploads/2017/08/Carne-adulto-600x886.jpg"
+      }
+   ]
+}
